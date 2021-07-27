@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Ankur 👋
+- 4th year Computer Engineering Student at McMaster University!🇨🇦
+- Passionate about technology :octocat:, Unconventional dealseeking💲, learning new software development tools!📚
 
+### 📘 About Me
+- 😇  Pronouns: he/him 
+- 📂  I’m looking to contribute to open source software
+- 🌱 I’m currently learning [Typescript/Angular](https://angular.io/)
+- 👯 I’m looking to collaborate on open-source projects
+- ☕  Ask me about combustion automobiles,electric vehicles, debate, and coffee
+-  📫 How to reach me: kejria1@mcmaster.ca, [linkedin.com/in/kejriwalankur/](https://www.linkedin.com/in/kejriwalankur/)
 <!--
 **ankurkejriwal/ankurkejriwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
