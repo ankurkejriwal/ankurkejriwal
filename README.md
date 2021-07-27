@@ -1,7 +1,6 @@
 ### Hi there! I'm Ankur 👋
 - 4th year Computer Engineering Student at McMaster University!🇨🇦
 - Passionate about technology :octocat:, Unconventional dealseeking💲, learning new software development tools!📚
-
 ### 📘 About Me
 - 😇  Pronouns: he/him 
 - 📂  I’m looking to contribute to open source software
