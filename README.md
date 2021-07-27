@@ -3,7 +3,6 @@
 - Passionate about technology :octocat:, Unconventional dealseeking💲, learning new software development tools!📚
 ### 📘 About Me
 - 😇  Pronouns: he/him 
-- 📂  I’m looking to contribute to open source software
 - 🌱 I’m currently learning [Typescript/Angular](https://angular.io/)
 - 👯 I’m looking to collaborate on open-source projects
 - ☕  Ask me about combustion automobiles,electric vehicles, debate, and coffee
