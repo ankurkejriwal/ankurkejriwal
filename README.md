@@ -2,7 +2,7 @@
 - Computer Engineering Graduate from McMaster University!🇨🇦
 - Currently working as a Software Engineer at Gap Inc
 - Passionate about technology :octocat:, Unconventional dealseeking💲, learning new software development tools!📚
-- Currently looking for New Grad positions (Graduating in April 2022)
+  
 ### 📘 About Me
 - 😇  Pronouns: he/him 
 - 🌱 I’m currently learning [Typescript/Angular](https://angular.io/)
