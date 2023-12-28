@@ -1,5 +1,6 @@
 ### Hi there! I'm Ankur 👋
-- 4th year Computer Engineering Student at McMaster University!🇨🇦
+- Computer Engineering Graduate from McMaster University!🇨🇦
+- Currently working as a Software Engineer at Gap Inc
 - Passionate about technology :octocat:, Unconventional dealseeking💲, learning new software development tools!📚
 - Currently looking for New Grad positions (Graduating in April 2022)
 ### 📘 About Me
@@ -7,7 +8,7 @@
 - 🌱 I’m currently learning [Typescript/Angular](https://angular.io/)
 - 👯 I’m looking to collaborate on open-source projects
 - ☕  Ask me about combustion automobiles,electric vehicles, debate, and coffee
--  📫 How to reach me: kejria1@mcmaster.ca, [linkedin.com/in/kejriwalankur/](https://www.linkedin.com/in/kejriwalankur/)
+-  📫 How to reach me: [linkedin.com/in/kejriwalankur/](https://www.linkedin.com/in/kejriwalankur/)
 <!--
 **ankurkejriwal/ankurkejriwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
